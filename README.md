@@ -38,7 +38,11 @@ Save different versions of the videos and compare the results to understand how 
 
 Prompt-1 : A cinematic, wide tracking shot gliding over lush green agricultural fields situated in a deep valley surrounded by towering, majestic mountains. A small group of people are walking along a narrow dirt path in the middle distance, interacting naturally with the landscape. Soft, natural daylight with light mist clinging to the mountain peaks. Shot on a 35mm Anamorphic lens to emphasize the scale of the mountains, creating a shallow depth of field. Ultra-realistic textures, organic colors, 8k resolution. Aspect Ratio 2.39:1.
 
-https://github.com/user-attachments/assets/eed1dfc4-d14c-458d-a4d4-2aae4beb00e4
+
+
+https://github.com/user-attachments/assets/46b4512f-1c9b-4514-b29b-7311684fcac2
+
+
 
 Prompt-2 :  Cinematic low-angle tracking shot of a realistic city street at night, rain-slicked. Diverse crowd of people walking, holding umbrellas. Realistic street lighting, wet pavement reflections, no cyberpunk elements. Shot on 35mm Anamorphic lens, bokeh, lens flares, high contrast, 8k resolution, 2.39:1 aspect ratio.
 
