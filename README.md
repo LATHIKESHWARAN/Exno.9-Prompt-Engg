@@ -40,7 +40,11 @@ Prompt-1 : A cinematic, wide tracking shot gliding over lush green agricultural 
 
 
 
-https://github.com/user-attachments/assets/46b4512f-1c9b-4514-b29b-7311684fcac2
+
+https://github.com/user-attachments/assets/6a90d7d4-defa-45cc-9b3a-b5cd276f0ed2
+
+
+
 
 
 
