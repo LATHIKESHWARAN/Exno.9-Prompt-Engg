@@ -1,9 +1,11 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+## Date: 20/11/25
+## Register no.: 212222230072
+## Aim:
+To perform the Exploration of Prompting Techniques for Video Generation
+## Algorithm:
+Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
@@ -31,16 +33,21 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
+## Prompt
+### Tool : Google Veo
 
-# Result: The Prompt of the above task executed successfully
+Prompt-1 : A cinematic, wide tracking shot gliding over lush green agricultural fields situated in a deep valley surrounded by towering, majestic mountains. A small group of people are walking along a narrow dirt path in the middle distance, interacting naturally with the landscape. Soft, natural daylight with light mist clinging to the mountain peaks. Shot on a 35mm Anamorphic lens to emphasize the scale of the mountains, creating a shallow depth of field. Ultra-realistic textures, organic colors, 8k resolution. Aspect Ratio 2.39:1.
+
+https://github.com/user-attachments/assets/eed1dfc4-d14c-458d-a4d4-2aae4beb00e4
+
+Prompt-2 :  Cinematic low-angle tracking shot of a realistic city street at night, rain-slicked. Diverse crowd of people walking, holding umbrellas. Realistic street lighting, wet pavement reflections, no cyberpunk elements. Shot on 35mm Anamorphic lens, bokeh, lens flares, high contrast, 8k resolution, 2.39:1 aspect ratio.
+
+https://github.com/user-attachments/assets/272f1f87-8e24-48e4-9073-b8799963d947
 
 
 
 
 
 
-
-
-
-# Result:
-
+## Result:
+The Prompt of the above task executed successfully
